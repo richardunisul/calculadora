@@ -35,6 +35,9 @@ public class Principal {
                 case 5:
                     JOptionPane.showMessageDialog(null, "Divisão: " + calculadora.getDivisao());
                     break;
+                case 9:
+                    JOptionPane.showMessageDialog(null, "Saindo ");
+                    break;    
             }
         }
     }
