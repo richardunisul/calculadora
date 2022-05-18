@@ -17,4 +17,3 @@ Pipeline
 - Utiliza o Apache Maven para a automatização da construção.<br>
 - A pasta test contêm os testes unitários do projeto utilizando JUnit 4.<br>
 - A cobertura do código é realizada através do JaCoCo.<br>
-![image](https://user-images.githubusercontent.com/103585524/169097221-d3cfa6a4-6263-4e31-8489-5e4720c0d59f.png)
