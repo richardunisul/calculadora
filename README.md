@@ -1,7 +1,6 @@
 [![Github Actions Status for richardunisul/calculadora](https://github.com/richardunisul/calculadora/workflows/Integra%C3%A7%C3%A3o%20continua%20de%20Java%20com%20Maven/badge.svg)](https://github.com/richardunisul/calculadora/actions) 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=calculadora&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=calculadora)
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=calculadora&metric=coverage)](https://sonarcloud.io/component_measures?id=calculadora&metric=coverage)
-![image](https://user-images.githubusercontent.com/103585524/169096950-ad19ecad-1ca7-45c6-9a89-9d71e3bdd980.png)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=richardunisul_calculadora&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=richardunisul_calculadora)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=richardunisul_calculadora&metric=coverage)](https://sonarcloud.io/component_measures?id=richardunisul_calculadora&metric=coverage)
 
 # Calculara com CI.
 Utiliza 3 ambientes:
