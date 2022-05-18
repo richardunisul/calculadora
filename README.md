@@ -1,4 +1,5 @@
 
+[![Github Actions Status for richardunisul/calculadora](https://github.com/richardunisul/calculadora/workflows/Integra%C3%A7%C3%A3o%20continua%20de%20Java%20com%20Maven/badge.svg)](https://github.com/richardunisul/calculadora/actions) 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=richardunisul_calculadora&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=richardunisul_calculadora)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=richardunisul_calculadora&metric=coverage)](https://sonarcloud.io/component_measures?id=richardunisul_calculadora&metric=coverage)
 
